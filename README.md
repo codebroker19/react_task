@@ -2,12 +2,12 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## This is completely responsive
+# This is completely responsive
 
 ## Available Scripts
 
 In the project directory, you can run:
-
+# This is completely responsive
 ### `npm start`
 
 Runs the app in the development mode.\
